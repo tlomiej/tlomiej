@@ -91,9 +91,16 @@
 <br>
 
 <h3 align="left">Home projects:</h3>
-<a href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo">
+<p>Click to see demo</p>
+<br>
+<a href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo" target="_blank" rel="noreferrer">
      <img width="50%" src="https://github.com/tlomiej/tlomiej/blob/main/brawlStarAPI.svg" />
   </a>
+<a href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo" target="_blank" rel="noreferrer">
+     <img width="50%" src="https://github.com/tlomiej/tlomiej/blob/main/geoApp.svg" />
+  </a>
+
+  
 
 
 
