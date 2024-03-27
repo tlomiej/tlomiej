@@ -90,15 +90,19 @@
 <br>
 <br>
 
-<h3 align="left">Home projects:</h3>
-<p>Click to see demo</p>
+<h3 align="center">Home projects:</h3>
+<p align="center">Click to see demo</p>
 <br>
-<a href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo" target="_blank" rel="noreferrer">
+<div align="center">
+<a align="center" href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo" target="_blank" rel="noreferrer">
      <img width="50%" src="https://github.com/tlomiej/tlomiej/blob/main/brawlStarAPI.svg" />
-  </a>
+  </a>   
+</div>
+<div align="center">
 <a href="https://geoapp-8zbw.onrender.com" title="Click to see demo" target="_blank" rel="noreferrer">
      <img width="50%" src="https://github.com/tlomiej/tlomiej/blob/main/geoApp.svg" />
   </a>
+</div>
 
   
 
