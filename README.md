@@ -95,12 +95,12 @@
 <br>
 <div align="center">
 <a align="center" href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo" target="_blank" rel="noreferrer">
-     <img width="50%" src="https://github.com/tlomiej/tlomiej/blob/main/brawlStarAPI.svg" />
+     <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/brawlStarAPI.svg" />
   </a>   
 </div>
 <div align="center">
 <a href="https://geoapp-8zbw.onrender.com" title="Click to see demo" target="_blank" rel="noreferrer">
-     <img width="50%" src="https://github.com/tlomiej/tlomiej/blob/main/geoApp.svg" />
+     <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/geoApp.svg" />
   </a>
 </div>
 
