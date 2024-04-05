@@ -90,8 +90,9 @@
 <br>
 <br>
 
-<h3 align="center">Home projects:</h3>
-<p align="center">Click to see demo</p>
+# Home projects
+
+<p align="center">Click imege to see demo</p>
 <p align="center"> I use free instance (render.com) will spin down with inactivity, which can delay first requests by 50 seconds or more</p>
 <br>
 <div align="center">
