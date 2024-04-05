@@ -92,14 +92,15 @@
 
 <h3 align="center">Home projects:</h3>
 <p align="center">Click to see demo</p>
+<p align="center"> I use free instance (render.com) will spin down with inactivity, which can delay first requests by 50 seconds or more</p>
 <br>
 <div align="center">
-<a align="center" href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo" target="_blank" rel="noreferrer">
+<a align="center" href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo. I use free instance (render.com) will spin down with inactivity, which can delay first requests by 50 seconds or more" target="_blank" rel="noreferrer">
      <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/brawlStarAPI.svg" />
   </a>   
 </div>
 <div align="center">
-<a href="https://geoapp-8zbw.onrender.com" title="Click to see demo" target="_blank" rel="noreferrer">
+<a href="https://geoapp-8zbw.onrender.com" title="Click to see demo. I use free instance (render.com) will spin down with inactivity, which can delay first requests by 50 seconds or more" target="_blank" rel="noreferrer">
      <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/geoApp.svg" />
   </a>
 </div>
