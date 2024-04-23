@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">A developer from Poland</h3>
+ <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -85,9 +87,15 @@
             alt="vuejs" width="40" height="40" />
     </a>
 </p>
-
-
 <br>
+ <div align="center">
+  <a href="https://github.com/tlomiej">
+  <img height="150em" src="https://readme-stats.clckblog.space/api?username=tlomiej&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=tlomiej&layout=compact&theme=aura"/>
+</div>
+
+
+
 <br>
 
 # Home projects
