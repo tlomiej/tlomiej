@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
-<h3 align="center">A developer from Poland</h3>
- <br>
+<br>
+<div align="center">
+  <a align="center" href="https://tlomiejastro.onrender.com/" title="Click to see portfolio" target="_blank" rel="noreferrer">
+     <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/portfolio.jpg" />
+  </a>   
+</div>
 
 
 
@@ -94,25 +98,6 @@
   <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=tlomiej&layout=compact&theme=aura"/>
 </div>
 
-
-
-<br>
-
-# Home projects
-
-<p align="center">Click imege to see demo</p>
-<p align="center"> I use free instance (render.com) will spin down with inactivity, which can delay first requests by 50 seconds or more</p>
-<br>
-<div align="center">
-<a align="center" href="https://learn-nodejs-r8oc.onrender.com?target=github" title="Click to see demo. I use free instance (render.com) will spin down with inactivity, which can delay first requests by 50 seconds or more" target="_blank" rel="noreferrer">
-     <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/brawlStarAPI.svg" />
-  </a>   
-</div>
-<div align="center">
-<a href="https://geoapp-8zbw.onrender.com" title="Click to see demo. I use free instance (render.com) will spin down with inactivity, which can delay first requests by 50 seconds or more" target="_blank" rel="noreferrer">
-     <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/geoApp.svg" />
-  </a>
-</div>
 
   
 
