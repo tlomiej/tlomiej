@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bartek</h1>
-<br>
 <div align="center">
   <a align="center" href="https://tlomiejastro.onrender.com/" title="Click to see portfolio" target="_blank" rel="noreferrer">
      <img width="80%" src="https://github.com/tlomiej/tlomiej/blob/main/portfolio.jpg" />
